@@ -34,9 +34,9 @@ kramdown:
 #
 owner:
   name: puing
-  avatar: 1.jpg
+  avatar:
   job: "securip in the future"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  bio: "You will know what the SECURIP is"
   email:
   disqus-shortname:
   twitter: #username
