@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
+You will know what the SECURIP is in the future.
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
+![Post](http://imgpark.donga.com/mbs/fileUpload/201510/07/561503651f1bdd9145b8.jpg)
 
 ## Getting Started
 The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
