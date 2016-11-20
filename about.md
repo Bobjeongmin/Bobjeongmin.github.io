@@ -9,7 +9,8 @@ You will know what the SECURIP is in the future.
 ![Post](http://imgpark.donga.com/mbs/fileUpload/201510/07/561503651f1bdd9145b8.jpg)
 
 ## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
+About :
+Achieve :
 
     git clone https://github.com/SalGnt/Travelogue.git
     cd Travelogue
