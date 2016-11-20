@@ -13,7 +13,6 @@ About :
 <br>
 Achieve :
 <br><br>
-
     git clone https://github.com/SalGnt/Travelogue.git
     cd Travelogue
     jekyll serve
