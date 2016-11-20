@@ -1,12 +1,12 @@
 /* LAYOUT CSS */
 .cover {
 //  background-color: $background-color;
-  background-color: #F36170;
+  background-color: 2.png;
   position: fixed;
   text-align: center;
   width: 100%;
   min-height: 400px;
-//  padding: 30px 15px 20px;
+  padding: 30px 15px 20px;
   z-index: 1;
   @include media-query($small-screen) {
     background-position: center;
