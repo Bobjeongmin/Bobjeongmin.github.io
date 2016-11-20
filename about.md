@@ -10,10 +10,11 @@ You will know what the SECURIP is in the future.
 
 ## Getting Started
 About :
+<br>
 Achieve :
-
+```
     git clone https://github.com/SalGnt/Travelogue.git
     cd Travelogue
     jekyll serve
-
+```
 Visit the [Jekyll website](http://jekyllrb.com/) for more information.
