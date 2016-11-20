@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: puing
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: You will know what the securip is.
 url: # the base hostname & protocol for your site
 
 
@@ -33,9 +33,9 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: puing
   avatar: leonids-logo.png
-  job: "A jekyll theme"
+  job: "securip in the future"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
