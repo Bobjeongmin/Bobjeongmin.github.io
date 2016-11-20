@@ -1,12 +1,11 @@
 /* LAYOUT CSS */
 .cover {
-//  background-color: $background-color;
-  background-image: url("https://kr.best-wallpaper.net/wallpaper/1920x1200/1307/Purple-night-sky-stars-trees-silhouettes_1920x1200.jpg");
-//  position: fixed;
-//  text-align: center;
+  background-color: $background-color;
+  position: fixed;
+  text-align: center;
   width: 100%;
-//  min-height: 400px;
-//  padding: 30px 15px 20px;
+  min-height: 400px;
+  padding: 30px 15px 20px;
   z-index: 1;
   @include media-query($small-screen) {
     background-position: center;
@@ -19,17 +18,15 @@
   }
 }
 .cover-card {
-  color: #F36170;
   background-image: url("https://kr.best-wallpaper.net/wallpaper/1920x1200/1307/Purple-night-sky-stars-trees-silhouettes_1920x1200.jpg");
 //  color: $text-color;
   padding: 0 30px;
   .avatar {
-//  border-radius: 50%;
-  background-image: url("https://kr.best-wallpaper.net/wallpaper/1920x1200/1307/Purple-night-sky-stars-trees-silhouettes_1920x1200.jpg");
-//    width: 100px;
-//    height: 100px;
-//    color: black;
-//    float: none;
+  border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    color: black;
+    float: none;
   }
   .author_name {
     display: block;

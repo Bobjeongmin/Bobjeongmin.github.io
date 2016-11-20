@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: puing
-  avatar: 2.png
+  avatar:
   job: "securip in the future"
   bio: "You will know what the SECURIP is"
   email:
